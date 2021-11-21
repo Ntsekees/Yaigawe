@@ -126,7 +126,7 @@ Here is the full list of inflectional endings:
 
 § Syntax
 
-Sentences are rigidly verb-initial. A matrix verb can occur only once in a sentence, and its appearance always signal that a new sentence is beginning; only matrix verbs can, and must, bear an Illocution ending, it is what formally distinguish matrix verbs from other words.
+Sentences are rigidly verb-initial. A matrix verb can occur only once in a sentence, and its appearance always signals that a new sentence is beginning; only matrix verbs can, and must, bear an Illocution ending, it is what formally distinguishes matrix verbs from other words.
 
 The syntax is fairly highly head-initial (although not always): adjectives and adjectival relative clauses are placed after their target noun, subordinating conjunctions are placed at the beginning of the subordinate clause they open, and so on.
 
@@ -149,7 +149,7 @@ In the dictionary, participant slots are represented by numbers in black circles
 
 The maximal number of allowed argument slots is 4.
 
-The Pendend case ⟪-q⟫, or “Null case”, introduces a noun phrase that does not interact directly with the argument structure of the clause it appears in; the purpose of this case is to introduce a noun phrase that will be referred later on with the Pendent pronoun ⟪qe⟫, or a quantifier phrase binding a variable that is not applied in-situ, but merely declared for a later use (such as in a clause belonging to a deeper level of nesting, as in ⟪two people are such that I know that their name is "John"⟫).
+The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that does not interact directly with the argument structure of the clause it appears in; the purpose of this case is to introduce a noun phrase that will be referred later on with the Pendent pronoun ⟪qe⟫, or a quantifier phrase binding a variable that is not applied in-situ, but merely declared for a later use (such as in a clause belonging to a deeper level of nesting, as in ⟪two people are such that I know that their name is "John"⟫).
 
 
 (...)
