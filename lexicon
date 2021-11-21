@@ -1,0 +1,121 @@
+﻿
+§ PARTICLES
+
+ao:    vocative
+o:     forthought binary logical connective constructor (FLCC)
+on:    medial connective (MC)
+da:    plural union
+ol:    connective predicate -> n-ary forethought connective
+ok:    n-ary forethought connective terminator
+wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending)
+a◈:    initiator of named variable
+lu◈:   unary quantifier constructor (UQC)
+neo◈:  opaque proper name initiator (OPNI)
+wı◈:   sequence initiator (SI)
+wo:    sequence terminator (ST)
+qu◈:   foreign quote initiator (FQI)
+ya◈:   content clause initiator (CCI)
+ña◈:   relative clause initiator (RCI)
+ñu◈:   propery clause initiator (LCI)
+ča◈:   binary relation clause initiator (BRCI)
+reča◈: ternary relation clause initiator (TRCI)
+koča◈: quaternary relation clause initiator (QRCI)
+poya◈: "whether" subordinate clause initiator (WSCI)
+qa:    head-final pendent clause relativizator (HFPCR)
+la:    end of subordinate clause (EOSC)
+na:    end of communication (EOC)
+
+
+§ SPECIAL CONTENTIVES
+
+nı: ➊ is me.
+sı: ➊ is/are you.
+ı:  ➊ is you-know-what.
+rı: ➊ is [resumptive pronoun]
+ye: ➊ is [lambda pronoun #1]
+nu: ➊ is [lambda pronoun #2]
+qe: ➊ is [pendent pronoun]
+nıwa: I have property ➊.
+nına: ➊ is in relation ➋ with me.
+kowaı: ➊, ➋, ➌ and ➍ are in the quaternary relationship referred to by the following serialized contentive.
+
+
+§ COMMON CONTENTIVES
+
+yaıga: ➊ is the Yaiga culture.
+yaıgawe: ➊ is the Yaiga language.
+
+čı⁓jı: ➊ is something.
+čaı⁓jaı: ➊ is something.
+aı: ➊ is true.
+hu: ➊ is false.
+u: ➊ has property ➋.
+waı: ➊ and ➋ are in relation ➌.
+rewaı: ➊, ➋ and ➌ are in relation ➍.
+to: ➊ is all which has property ➋.
+?me: property ➊ is satisfied by ➋.
+yo: property ➊ is universal among what has property ➋.
+yeo: propery ➊ is universal.
+ru: something has property ➊.
+karu: something has property ➊ and property ➋.
+  ※ redundant to ru, unlike yo vs yeo?
+ka: ➊ and ➋ are both the case.
+ruyu: ➊ are reciprocally in relation ➋.
+pı: ➊ is one in number.
+ñe: ➊ are two in number.
+re: ➊ are three in number.
+ko: ➊ are four in number.
+po: ➊ is the truth value of ➋.
+uñe: ➊ is the proposition that answers the question of what satisfies property ➋.
+ga⁓gao: something similar, analogical to proposition ➊ is the case, that proposition being a metaphorical description for it.
+naı: ➊ pertains to, is related to ➋.
+reo: ➊ is a part of ➋.
+ra: ➊ is the thing(s) with property ➋.
+uñu⁓quwa: ➊ is what satisfies property ➋ together with certain recognizable ones associated with it/him/her/them.
+lı: ➊ spatially overlaps ➋.
+ma: ➊ is in the future.
+ta: ➊ is in the present.
+ka: ➊ is in the past.
+mawa: ➊ is in the future of ➋.
+tawa: ➊ is in the present of ➋.
+kawa: ➊ is in the past of ➋.
+ne: ➊ is the one(s) named after property ➋.
+ŋa: ➊ volitionally has property ➋.
+ča: ➊ is ongoing.
+kaı: ➊ is possible.
+gapı: ➊ is a leg.
+hayu: ➊ is a cloud.
+tulu: ➊ is a sky.
+lunu: ➊ is blue.
+yuhe~yuha~yuhaı: ➊ is green.
+reko: ➊ is red.  ※ this clashes with "34".
+upo~po'ai: ➊ is black.
+rıwa: ➊ is beautiful.
+saı: ➊ sees visual perception ➋.
+wısaı: ➊ sees visual stimulus ➋.
+kao: ➊ displays their having property ➌.
+jahe: ➊ is grateful to ➋ for having property ➌.
+yao: ➊ wants ➋ to be the case.
+ŋayao: ➊ wants, intends to have property ➋.
+yu: ➊ has high confidence that ➋ is the case by having found evidences supporting it.
+aıyu: ➊ knows ➋.
+yuyao: ➊ wonders what has property ➋.
+baru: ➊ talks to ➋.
+naıbaru: ➊ talks to ➋ about ➌.
+yuba: ➊ communicates to ➋ performative proposition ➌.
+suba: ➊ asserts ➋.
+čaba: ➊ says ➋ (quote).
+luwao: ➊ sings ➋.
+kuču: ➊ eats ➋.
+ŋuru: ➊ sleeps.
+puya: ➊ is an apple.
+neya: ➊ is a bee.
+mıru: ➊ is a cat.
+wayu: ➊ is a dog.
+ıba⁓ıga: ➊ is a horse.
+we: ➊ is a language or lect.
+yawaı: ➊ greets ➋.
+bore: ➊ is a heart (organ).
+daya: ➊ is a friend of ➋.
+ruwa: ➊ is a country.
+

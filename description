@@ -1,0 +1,161 @@
+
+Date of last modification: 2021-11-21.
+
+
+§ Introduction
+
+Yaıgawe, also known as NLL2, is a constructed monosemic language, i.e. a loglang: syntactic ambiguities are disallowed, as well as word polysemy and homonymy not resolvable through syntax alone, as well as opaque idiomatic expression not explicitly marked as such. It is also an artlang, inasmuch as aesthetics (in the eyes of the author) is taken into account.
+It is currently in a developmental stage of early prototype, and the description given here may be obsoleted by future changes to the language.
+The general design of the language aims at simplicity, a limited number of particles, keeping all the content words into a single lexically-assigned part-of-speech (called "contentive", which may assume the roles of verbs, nouns, adjectives, adverbs etc. depending on the inflectional ending their receive), going as far as deriving all the conjunctions, quantifiers and interjections from contentive words.
+The phonology is also designed to be fairly simple, and the syllable structure is a simple ``CV(C)`` (with V possibly standing for a diphthong).
+The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages.
+
+
+§ Phonology
+
+§§ Vowel phonemes
+
+There are 5 vowel phonemes:
+
+┌───────────┐┌───────────┐
+│ IPA       ││ Spelling  │
+├───────────┤├───────────┤
+│  i     u  ││  ı     u  │
+│  e     o  ││  e     o  │
+│     ä     ││     a     │
+└───────────┘└───────────┘
+
+There are 2 diphthongs: /äi̯/ and /äo̯/, written respectively ⟪aı⟫ and ⟪ao⟫.
+/äi̯/ may be pronounced [äe̯] in a closed syllable, or [äj] when the next syllable begins with the consonant /j/, in which case the approximant is geminated at the syllable boundary: /äi̯.jä/ → [äj.jä].
+Similarly, /äo̯/ may be pronounced [äw] when immediately preceding a syllable beginning with /w/: /äo̯.wä/ → [äw.wä].
+
+
+§§ Consonant phonemes
+
+There are 21 vowel phonemes:
+
+┌───────────────────────┐┌──────────────────────┐
+│ IPA                   ││ Spelling             │
+├───────────────────────┤├──────────────────────┤
+│         j   w         ││        y   w         │
+│     ɾ                 ││     r                │
+│     l                 ││     l                │
+│ m   n   ɲ   ŋ         ││ m   n  ñ   ŋ         │
+│ b   d   d͡ʒ  ɡ         ││ b   d  j   g         │
+│ p   t   t͡ʃ  k   q   ʔ ││ p   t  č   k   q   ’ │
+│ f   s               h ││ f   s              h │
+└───────────────────────┘└──────────────────────┘
+
+
+§ Phonotactics
+
+Stress (realised as increase in loudness and a pitch a little higher) predictably occur on the last syllable of words (ultimate stress), without exception.
+
+Syllable structure: CV(C)?, with V possibly being a diphthong.
+If a word ends with a plosive or affricate consonant, it must be voiceless.
+
+
+§ Morphophonology and Morphology
+
+There are two lexico-morphosyntactic word classes: contentives and particles.
+Words and particles are not formally distinguishable; whether a word is a particle or a contantive is assigned lexically. Particles are a closed class and are relatively few in number, however.
+
+• A root (of either a particle or a contentive) is a string of syllables which must end with a vowel: "la", "lata" and "lanta" are valid root forms, but "lat" is not, for example.
+• A word stem may be either a single root or a string of several roots, semantically ordered head-finally, i.e. through left-grouping. When several roots are strung together, there is no formal hint of where are the boundaries between each root, i.e. the root compound is not unambiguously segmentable, which is not regarded as problematic since root compounds are always lexicalized, semantically opaque: they only offer hints of meanings and enhance memorization and remembrance, but their exact meanings is not unambiguously derived from their components, their meanings are listed in the dictionary and must be learnt in the same way as those of opaque monolithic roots.
+• With the exception of some indeclinable particles, all word stems may receive an inflectional ending (desinence) to become a complete word. This ending is composed of a single coda consonant, or may be an empty/null ending (-∅) in the case of a few grammatical roles. The desinence ending indicates the syntactic role of the word in the sentence.
+
+Here is the full list of inflectional endings:
+
+  -’:   Interjection
+  -h:   [Illocution] Performative
+  -s:   [Illocution] Assertive
+  -f:   [Illocution] Requestive
+  -yam: [Illocution] Polar Question
+  -wam: [Illocution] Content Question
+  -t:   Serialization
+  -∅:   Oblique (complement of certain particles)
+  -q:   [Case] Pendent
+  -∅:   [Case] Nominative, first core argument
+  -n:   [Case] Accusative, second core argument
+  -l:   [Case] Dative/Ternative, third core argument
+  -ram: [Case] Quaternative, fourth core argument
+  -č:   [Case] Eventive (event instantiating the clause)
+  -k:   Restrictive adjective
+  -p:   Restrictive propositional adverb
+  -ŋ:   Restrictive afterthought conjunction
+  -ham: Restrictive forethought conjunction
+  -r:   Binary quantifier
+  -wım: Nominative pre-filling (currying) of the preceding contentive
+  -nım: Accusative pre-filling (currying) of the preceding contentive
+  -lım: Ternative pre-filling (currying) of the preceding contentive
+  -rım: Quaternative pre-filling (currying) of the preceding contentive
+  -čım: Eventive pre-filling (currying) of the preceding contentive
+  -pım: Adverbial pre-filling (currying) of the preceding contentive
+
+
+§ List of particles
+
+⟪◈⟫ henceforth stands for any inflectional ending. Particles which do not end with that symbol are indeclinable.
+
+  ao:    vocative
+  o:     forthought binary logical connective constructor (FLCC)
+  on:    medial connective (MC)
+  da:    plural union
+  ol:    connective predicate -> n-ary forethought connective
+  ok:    n-ary forethought connective terminator
+  wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
+  a◈:    initiator of named variable
+  lu◈:   unary quantifier constructor (UQC)
+  neo◈:  opaque proper name initiator (OPNI)
+  wı◈:   sequence initiator (SI)
+  wo:    sequence terminator (ST)
+  qu◈:   foreign quote initiator (FQI)
+  ya◈:   content clause initiator (CCI)
+  ña◈:   relative clause initiator (RCI)
+  ñu◈:   propery clause initiator (LCI)
+  ča◈:   binary relation clause initiator (BRCI)
+  reča◈: ternary relation clause initiator (TRCI)
+  koča◈: quaternary relation clause initiator (QRCI)
+  poya◈: "whether" subordinate clause initiator (WSCI)
+  qa:    head-final pendent clause relativizator (HFPCR)
+  la:    end of subordinate clause (EOSC)
+  na:    end of communication (EOC)
+
+  (Some more particles may be added in the future.)
+
+
+§ Syntax
+
+Sentences are rigidly verb-initial. A matrix verb can occur only once in a sentence, and its appearance always signal that a new sentence is beginning; only matrix verbs can, and must, bear an Illocution ending, it is what formally distinguish matrix verbs from other words.
+
+The syntax is fairly highly head-initial (although not always): adjectives and adjectival relative clauses are placed after their target noun, subordinating conjunctions are placed at the beginning of the subordinate clause they open, and so on.
+
+The four core cases are semantically opaque, they merely indicate which participant slot of the clause's verb (among the slots defined in the definition of the contentive playing the role of the verb) is selected for the marked noun to go into. As case marking of the core arguments of the verb is mandatory, there's no fixed order of appearance for them, they can be introduced in any order.
+
+For example:
+• ⟪Kučus nı poyan.⟫
+  "eat-[assertive] I-(nominative) apple-[accusative]"
+  "I eat an apple / I eat apples"
+
+This sentence can be reordered as ⟪Kučus poyan nı.⟫, without change of meaning.
+
+If the accusative ending ⟪-n⟫ is moved around however, the meaning will change:
+• ⟪Kučus nın poya.⟫
+  "An apple eats me."
+
+In the dictionary, participant slots are represented by numbers in black circles: ⟪➊⟫, ⟪➋⟫, ⟪➌⟫ and ⟪➍⟫, respectively corresponding to the nominative, accusative, ternative and quaternative cases. As an example, the word ⟪kuču⟫ from the previous examples is thusly defined:
+
+   ⟪kuču: ➊ eats ➋.⟫
+
+The maximal number of allowed argument slots is 4.
+
+The Pendend case ⟪-q⟫, or “Null case”, introduces a noun phrase that does not interact directly with the argument structure of the clause it appears in; the purpose of this case is to introduce a noun phrase that will be referred later on with the Pendent pronoun ⟪qe⟫, or a quantifier phrase binding a variable that is not applied in-situ, but merely declared for a later use (such as in a clause belonging to a deeper level of nesting, as in ⟪two people are such that I know that their name is "John"⟫).
+
+
+(...)
+
+
+§ Lexicon: contentives
+
+See the dedicated file ⟪lexicon⟫.
+

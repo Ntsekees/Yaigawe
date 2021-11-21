@@ -1,0 +1,50 @@
+﻿
+• Lunus tulu.
+* blue-ASR sky(NOM)
+Ⓔ A sky is blue.
+[Toaq] Mỉo sa sẻoq da.
+
+• Yus nı yan yu sı ın.
+* is_confident_in-ASR thing(NOM) CCI-ACC is_confident_in(OBL) you(NOM) you_know_what-ACC
+Ⓔ I am confident that you are confident that you-know-what is the case.
+
+• Reos yor pı mırut kon gapıt.
+* has_part-ASR forall-BQZ 1(NOM) cat-SZ 4-ACC leg-SZ
+Ⓔ Every one cat has four legs.
+[Toaq] Pảq go tu shỉ kảto sa jỏ shỉaq da.
+
+• Ruyus barut nı da nına dayat.
+* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_in_relation_with_me(OBL) is_friend_of-SZ
+Ⓔ I talk to a friend of mine.
+[Toaq] Chẻo kỏy jí roı sa gỏjī pảı da.
+
+• Ruyus barut nı da daya nınım.
+* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_friend_of(OBL) me-ACC-CUR.
+Ⓔ I talk with a friend of mine.
+
+• Ruyus barut nı da daya wa nın.
+* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_friend_of(OBL) CUR me-ACC.
+Ⓔ I talk with a friend of mine.
+
+• Pıs ra wayut kaŋ ra mırut.
+Ⓔ The dog and the cat are both one in number/numerosity.
+[Toaq] Shỉ ke kủnē ru ke kảtō da.
+
+• Nes hayut nı.
+Ⓔ I am (the one named after concept) Cloud.
+[Toaq] Jẻomī pủao jí da.
+
+• Nes hayut lu nıwa.
+Ⓔ It is me who is (the one named after concept) Cloud.
+[Toaq] Mỉ pủao meq fỉjī da.
+[Toaq] ≈ mỉ pủao ku jí da.
+
+• Nes hayut lu u wa nı.
+• Nes hayut lu u nıwım.
+Ⓔ It is me who is (the one named after concept) Cloud.
+
+• Nes hayut karur nı.
+Ⓔ It is me who is (the one named after concept) Cloud.
+[Toaq] Mỉ pủao meyq rủjeo jí da.
+
+
