@@ -104,6 +104,7 @@ Here is the full list of inflectional endings:
   ol:    connective predicate -> n-ary forethought connective
   ok:    n-ary forethought connective terminator
   wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
+  wao:   terminator of pre-filling phrase.
   a◈:    initiator of named variable
   lu◈:   unary quantifier constructor (UQC)
   neo◈:  opaque proper name initiator (OPNI)
@@ -116,7 +117,7 @@ Here is the full list of inflectional endings:
   ča◈:   binary relation clause initiator (BRCI)
   reča◈: ternary relation clause initiator (TRCI)
   koča◈: quaternary relation clause initiator (QRCI)
-  poya◈: "whether" subordinate clause initiator (WSCI)
+  peo◈:  "whether" subordinate clause initiator (WSCI)
   qa:    head-final pendent clause relativizator (HFPCR)
   la:    end of subordinate clause (EOSC)
   na:    end of communication (EOC)

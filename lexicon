@@ -8,6 +8,7 @@ da:    plural union
 ol:    connective predicate -> n-ary forethought connective
 ok:    n-ary forethought connective terminator
 wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending)
+wao:   terminator of pre-filling phrase.
 a◈:    initiator of named variable
 lu◈:   unary quantifier constructor (UQC)
 neo◈:  opaque proper name initiator (OPNI)
@@ -20,10 +21,15 @@ ya◈:   content clause initiator (CCI)
 ča◈:   binary relation clause initiator (BRCI)
 reča◈: ternary relation clause initiator (TRCI)
 koča◈: quaternary relation clause initiator (QRCI)
-poya◈: "whether" subordinate clause initiator (WSCI)
+peo◈:  "whether" subordinate clause initiator (WSCI)
 qa:    head-final pendent clause relativizator (HFPCR)
 la:    end of subordinate clause (EOSC)
 na:    end of communication (EOC)
+
+
+§ DERIVATIONAL SUFFIXES
+
+—qa:   marker of loanword, especially if the loaned foreign word clashes with a native word of the same sound.
 
 
 § SPECIAL CONTENTIVES
@@ -32,8 +38,12 @@ nı: ➊ is me.
 sı: ➊ is/are you.
 ı:  ➊ is you-know-what.
 rı: ➊ is [resumptive pronoun]
-ye: ➊ is [lambda pronoun #1]
-nu: ➊ is [lambda pronoun #2]
+ye: ➊ is [unary lambda pronoun #1]
+nu: ➊ is [unary lambda pronoun #2]
+wıye: ➊ is [polyadic lambda pronoun #1]
+nıye: ➊ is [polyadic lambda pronoun #2]
+lıye: ➊ is [polyadic lambda pronoun #3]
+rıye: ➊ is [polyadic lambda pronoun #4]
 qe: ➊ is [pendent pronoun]
 nıwa: I have property ➊.
 nına: ➊ is in relation ➋ with me.
@@ -54,13 +64,17 @@ waı: ➊ and ➋ are in relation ➌.
 rewaı: ➊, ➋ and ➌ are in relation ➍.
 to: ➊ is all which has property ➋.
 ?me: property ➊ is satisfied by ➋.
-yo: property ➊ is universal among what has property ➋.
 yeo: propery ➊ is universal.
-ru: something has property ➊.
-karu: something has property ➊ and property ➋.
-  ※ redundant to ru, unlike yo vs yeo?
+yo: property ➊ is universal among what has property ➋.
+aru: something has property ➊.
+ru: something has property ➊ and property ➋.
 ka: ➊ and ➋ are both the case.
+qao: as for ➊ (topic), it/they have property ➋ (comment).
+ba: ➊ is in a relation with a great number relatively to the median among ➋, and that relation is ➌.
+čı: ➊ is in a relation with a small number relatively to the median among ➋, and that relation is ➌.
+bı: either ➊, ➋ or both are the case.
 ruyu: ➊ are reciprocally in relation ➋.
+yuqa: ➊ and ➋ are in relation ➌ with different things.
 pı: ➊ is one in number.
 ñe: ➊ are two in number.
 re: ➊ are three in number.
@@ -79,6 +93,8 @@ ka: ➊ is in the past.
 mawa: ➊ is in the future of ➋.
 tawa: ➊ is in the present of ➋.
 kawa: ➊ is in the past of ➋.
+hao: ➊ is ongoing.
+wača: ➊ causes ➋.
 ne: ➊ is the one(s) named after property ➋.
 ŋa: ➊ volitionally has property ➋.
 ča: ➊ is ongoing.
@@ -97,9 +113,9 @@ kao: ➊ displays their having property ➌.
 jahe: ➊ is grateful to ➋ for having property ➌.
 yao: ➊ wants ➋ to be the case.
 ŋayao: ➊ wants, intends to have property ➋.
-yu: ➊ has high confidence that ➋ is the case by having found evidences supporting it.
-aıyu: ➊ knows ➋.
-yuyao: ➊ wonders what has property ➋.
+yu~yuga~yaga: ➊ has high confidence that ➋ is the case by having found evidences supporting it.
+aıyu~aıyuga: ➊ knows ➋.
+yuyao~yugayao: ➊ wonders what has property ➋.
 baru: ➊ talks to ➋.
 naıbaru: ➊ talks to ➋ about ➌.
 yuba: ➊ communicates to ➋ performative proposition ➌.
@@ -108,7 +124,7 @@ suba: ➊ asserts ➋.
 luwao: ➊ sings ➋.
 kuču: ➊ eats ➋.
 ŋuru: ➊ sleeps.
-puya: ➊ is an apple.
+poya~puya: ➊ is an apple.
 neya: ➊ is a bee.
 mıru: ➊ is a cat.
 wayu: ➊ is a dog.
@@ -118,4 +134,4 @@ yawaı: ➊ greets ➋.
 bore: ➊ is a heart (organ).
 daya: ➊ is a friend of ➋.
 ruwa: ➊ is a country.
-
+rıqu: ➊ rains.
