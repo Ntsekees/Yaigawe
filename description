@@ -6,7 +6,7 @@ Date of last modification: 2021-11-21.
 
 Yaıgawe, also known as NLL2, is a constructed monosemic language, i.e. a loglang: syntactic ambiguities are disallowed, as well as word polysemy and homonymy not resolvable through syntax alone, as well as opaque idiomatic expression not explicitly marked as such. It is also an artlang, inasmuch as aesthetics (in the eyes of the author) is taken into account.
 It is currently in a developmental stage of early prototype, and the description given here may be obsoleted by future changes to the language.
-The general design of the language aims at simplicity, a limited number of particles, keeping all the content words into a single lexically-assigned part-of-speech (called "contentive", which may assume the roles of verbs, nouns, adjectives, adverbs etc. depending on the inflectional ending their receive), going as far as deriving all the conjunctions, quantifiers and interjections from contentive words.
+The general design of the language aims at simplicity, a limited number of function words, keeping all the content words into a single lexically-assigned part-of-speech (called "contentive", which may assume the roles of verbs, nouns, adjectives, adverbs etc. depending on the inflectional ending their receive), going as far as deriving all the conjunctions, quantifiers and interjections from contentive words.
 The phonology is also designed to be fairly simple, and the syllable structure is a simple ``CV(C)`` (with V possibly standing for a diphthong).
 The vocabulary is a priori, not derived or borrowed from that of existing natural or constructed languages.
 
@@ -66,12 +66,12 @@ If a word ends with a plosive or affricate consonant, it must be phonologically 
 
 § Morphophonology and Morphology
 
-There are two lexico-morphosyntactic word classes: contentives and particles.
-Words and particles are not formally distinguishable; whether a word is a particle or a contantive is assigned lexically. Particles are a closed class and are relatively few in number, however.
+There are two lexico-morphosyntactic word classes: contentives and function words.
+Contentives and function words are not formally distinguishable; whether a word is a function word or a contentive is assigned lexically. Function words are a closed class and are relatively few in number, however.
 
-• A root (of either a particle or a contentive) is a string of syllables which must end with a vowel: "la", "lata" and "lanta" are valid root forms, but "lat" is not, for example.
+• A root (of either a function word or a contentive) is a string of syllables which must end with a vowel: "la", "lata" and "lanta" are valid root forms, but "lat" is not, for example.
 • A word stem may be either a single root or a string of several roots, semantically ordered head-finally, i.e. through left-grouping. When several roots are strung together, there is no formal hint of where are the boundaries between each root, i.e. the root compound is not unambiguously segmentable, which is not regarded as problematic since root compounds are always lexicalized, semantically opaque: they only offer hints of meanings and enhance memorization and remembrance, but their exact meanings is not unambiguously derived from their components, their meanings are listed in the dictionary and must be learnt in the same way as those of opaque monolithic roots.
-• With the exception of some indeclinable particles, all word stems may receive an inflectional ending (desinence) to become a complete word. This ending is composed of a single coda consonant, or may be an empty/null ending (-∅) in the case of a few grammatical roles. The desinence ending indicates the syntactic role of the word in the sentence.
+• With the exception of some indeclinable function words, all word stems may receive an inflectional ending (desinence) to become a complete word. This ending is composed of a single coda consonant, or may be an empty/null ending (-∅) in the case of a few grammatical roles. The desinence ending indicates the syntactic role of the word in the sentence.
 
 Here is the full list of inflectional endings:
 
@@ -82,7 +82,7 @@ Here is the full list of inflectional endings:
   -yam: [Illocution] Polar Question
   -wam: [Illocution] Content Question
   -t:   Serialization
-  -∅:   Oblique (complement of certain particles)
+  -∅:   Oblique (complement of certain function words)
   -q:   [Case] Pendent
   -∅:   [Case] Nominative, first core argument
   -n:   [Case] Accusative, second core argument
@@ -102,9 +102,9 @@ Here is the full list of inflectional endings:
   -pım: Adverbial pre-filling (currying) of the preceding contentive
 
 
-§ List of particles
+§ List of function words
 
-⟪◈⟫ henceforth stands for any inflectional ending. Particles which do not end with that symbol are indeclinable.
+⟪◈⟫ henceforth stands for any inflectional ending. Function words which do not end with that symbol are indeclinable.
 
   ao:    vocative
   o:     forthought binary logical connective constructor (FLCC)
@@ -131,7 +131,7 @@ Here is the full list of inflectional endings:
   la:    end of subordinate clause (EOSC)
   na:    end of communication (EOC)
 
-  (Some more particles may be added in the future.)
+  (Some more function words may be added in the future.)
 
 
 § Syntax
