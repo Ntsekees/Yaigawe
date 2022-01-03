@@ -49,7 +49,7 @@ There are 21 consonant phonemes:
 │     l                 ││     l                │
 │ m   n   ɲ   ŋ         ││ m   n  ñ   ŋ         │
 │ b   d   d͡ʒ  ɡ         ││ b   d  j   g         │
-│ p   t   t͡ʃ  k   q   ʔ ││ p   t  č   k   q   ’ │
+│ p   t   t͡ʃ  k   q   ʔ ││ p   t  č   k   q   ʼ │
 │ f   s               h ││ f   s              h │
 └───────────────────────┘└──────────────────────┘
 
@@ -75,7 +75,7 @@ Contentives and function words are not formally distinguishable; whether a word 
 
 Here is the full list of inflectional endings:
 
-  -’:   Interjection
+  -ʼ:   Interjection
   -h:   [Illocution] Performative
   -s:   [Illocution] Assertive
   -f:   [Illocution] Requestive
