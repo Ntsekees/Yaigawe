@@ -113,7 +113,11 @@ Here is the full list of inflectional endings:
   ol:    connective predicate -> n-ary forethought connective
   ok:    n-ary forethought connective terminator
   wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
-  wao:   terminator of pre-filling phrase.
+  wao:   terminator of pre-filling phrase
+  wıʼa◈: rebinder for lambda pronoun #1
+  nıʼa◈: rebinder for lambda pronoun #2
+  lıʼa◈: rebinder for lambda pronoun #3
+  rıʼa◈: rebinder for lambda pronoun #4
   a◈:    initiator of named variable
   lu◈:   unary quantifier constructor (UQC)
   neo◈:  opaque proper name initiator (OPNI)
