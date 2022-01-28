@@ -39,7 +39,7 @@ Vowels immediately preceding the uvular plosive /q/ may undergo slight lowering 
 
 §§ Consonant phonemes
 
-There are 21 consonant phonemes:
+There are 20 consonant phonemes:
 
 ┌───────────────────────┐┌──────────────────────┐
 │ IPA                   ││ Spelling             │
@@ -47,7 +47,7 @@ There are 21 consonant phonemes:
 │         j   w         ││        y   w         │
 │     ɾ                 ││     r                │
 │     l                 ││     l                │
-│ m   n   ɲ   ŋ         ││ m   n  ñ   ŋ         │
+│ m   n       ŋ         ││ m   n      ŋ         │
 │ b   d   d͡ʒ  ɡ         ││ b   d  j   g         │
 │ p   t   t͡ʃ  k   q   ʔ ││ p   t  č   k   q   ʼ │
 │ f   s               h ││ f   s              h │
@@ -125,15 +125,17 @@ Here is the full list of inflectional endings:
   wo:    sequence terminator (ST)
   qu◈:   foreign quote initiator (FQI)
   ya◈:   content clause initiator (CCI)
-  ña◈:   relative clause initiator (RCI)
-  ñu◈:   propery clause initiator (LCI)
+  na◈:   relative clause initiator (RCI)
+  yu◈:   propery clause initiator (LCI)
   ča◈:   binary relation clause initiator (BRCI)
   reča◈: ternary relation clause initiator (TRCI)
   koča◈: quaternary relation clause initiator (QRCI)
   peo◈:  "whether" subordinate clause initiator (WSCI)
   qa:    head-final pendent clause relativizator (HFPCR)
   la:    end of subordinate clause (EOSC)
-  na:    end of communication (EOC)
+  he:    end of communication (EOC)
+  eı:    more to come, I'm not done speaking
+  e:     acknowledgement (ACK)
 
   (Some more function words may be added in the future.)
 

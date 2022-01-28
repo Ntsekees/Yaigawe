@@ -7,7 +7,7 @@ on:    medial connective (MC)
 da:    plural union
 ol:    connective predicate -> n-ary forethought connective
 ok:    n-ary forethought connective terminator
-wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending)
+wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
 wao:   terminator of pre-filling phrase
 wıʼa◈: rebinder for lambda pronoun #1
 nıʼa◈: rebinder for lambda pronoun #2
@@ -20,15 +20,17 @@ wı◈:   sequence initiator (SI)
 wo:    sequence terminator (ST)
 qu◈:   foreign quote initiator (FQI)
 ya◈:   content clause initiator (CCI)
-ña◈:   relative clause initiator (RCI)
-ñu◈:   propery clause initiator (LCI)
+na◈:   relative clause initiator (RCI)
+yu◈:   propery clause initiator (LCI)
 ča◈:   binary relation clause initiator (BRCI)
 reča◈: ternary relation clause initiator (TRCI)
 koča◈: quaternary relation clause initiator (QRCI)
 peo◈:  "whether" subordinate clause initiator (WSCI)
 qa:    head-final pendent clause relativizator (HFPCR)
 la:    end of subordinate clause (EOSC)
-na:    end of communication (EOC)
+he:    end of communication (EOC)
+eı:    more to come, I'm not done speaking
+e:     acknowledgement (ACK)
 
 
 § DERIVATIONAL SUFFIXES
@@ -80,16 +82,17 @@ bı: either ➊, ➋ or both are the case.
 ruyu: ➊ are reciprocally in relation ➋.
 yuqa: ➊ and ➋ are in relation ➌ with different things.
 pı: ➊ is one in number.
-ñe: ➊ are two in number.
+je: ➊ are two in number.
 re: ➊ are three in number.
 ko: ➊ are four in number.
+ŋe: ➊ are five in number.
 po: ➊ is the truth value of ➋.
-uñe: ➊ is the proposition that answers the question of what satisfies property ➋.
+uje: ➊ is the proposition that answers the question of what satisfies property ➋.
 ga⁓gao: something similar, analogical to proposition ➊ is the case, that proposition being a metaphorical description for it.
 naı: ➊ pertains to, is related to ➋.
 reo: ➊ is a part of ➋.
 ra: ➊ is the thing(s) with property ➋.
-uñu⁓quwa: ➊ is what satisfies property ➋ together with certain recognizable ones associated with it/him/her/them.
+uyu⁓quwa: ➊ is what satisfies property ➋ together with certain recognizable ones associated with it/him/her/them.
 lı: ➊ spatially overlaps ➋.
 ma: ➊ is in the future.
 ta: ➊ is in the present.
