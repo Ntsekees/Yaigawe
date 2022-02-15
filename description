@@ -174,6 +174,16 @@ In the dictionary, participant slots are represented by numbers in black circles
 
 The maximal number of allowed argument slots is 4.
 
+When a noun case is applied to a contentive of arity 2 or above, the first argument slot of the contentive is selected for describing the referent of the noun: ⟪kučun⟫ is a noun referring to something which eats (and not something eaten), in the accusative case.
+In order to select another slot for describing the noun's referents, you may use a suitable slot-swapping predicate:
+
+  ┌───────────────
+  │ ◆ Gulırıwas ██ kučut.
+  │ ❖ delicious-ASR nominative_accusative_swapper eat-SZ
+  │ ➥ What is eaten is delicious.
+  └─
+
+
 The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that does not interact directly with the argument structure of the clause it appears in; the purpose of this case is to introduce a noun phrase that will be referred later on with the Pendent pronoun ⟪qe⟫, or a quantifier phrase binding a variable that is not applied in-situ, but merely declared for a later use (such as in a clause belonging to a deeper level of nesting, as in ⟪two people are such that I know that their name is "John"⟫).
 
   ┌───────────────
