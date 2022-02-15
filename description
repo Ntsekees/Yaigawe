@@ -145,6 +145,13 @@ Here is the full list of inflectional endings:
 § Syntax
 
 Sentences are rigidly verb-initial. A matrix verb can occur only once in a sentence, and its appearance always signals that a new sentence is beginning; only matrix verbs can, and must, bear an Illocution ending, it is what formally distinguishes matrix verbs from other words.
+A matrix verb can make up a complete sentence by itself; verb complements, including the core arguments of the verbs, are optional; the core arguments that don't appear explicitly are implicitly existentially quantified (“something, someone”).
+
+  ┌───────────────
+  │ ◆ Kučus.
+  │ ❖ eat-ASR
+  │ ➥ There is eating; eating is taking place; something eats something.
+  └─
 
 The syntax is fairly highly head-initial (although not always): adjectives and adjectival relative clauses are placed after their target noun, subordinating conjunctions are placed at the beginning of the subordinate clause they open, and so on.
 
