@@ -176,6 +176,12 @@ The maximal number of allowed argument slots is 4.
 
 The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that does not interact directly with the argument structure of the clause it appears in; the purpose of this case is to introduce a noun phrase that will be referred later on with the Pendent pronoun ⟪qe⟫, or a quantifier phrase binding a variable that is not applied in-situ, but merely declared for a later use (such as in a clause belonging to a deeper level of nesting, as in ⟪two people are such that I know that their name is "John"⟫).
 
+  ┌───────────────
+  │ ◆ Bas wıyat mır peq ıt ya seya nı qen.
+  │ ❖ much-ASR has_frequency-SZ ∄-BQZ among-PND you_know_what-SZ CTI
+  │   interact_socially me PND_PN-ACC
+  │ ➥ None of them is such that I frequently interact socially with them.
+  └─
 
 (...)
 
