@@ -9,21 +9,21 @@
 Ⓔ I am confident that you are confident that you-know-what is the case.
 
 • Reos yor pı mırut kon gapıt.
-* has_part-ASR forall-BQZ 1(NOM) cat-SZ 4-ACC leg-SZ
+* has_part-ASR forall-BQZ 1(NOM) cat-SER 4-ACC leg-SER
 Ⓔ Every one cat has four legs.
 [Toaq] Pảq go tu shỉ kảto sa jỏ shỉaq da.
 
 • Ruyus barut nı da nına dayat.
-* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_in_relation_with_me(OBL) is_friend_of-SZ
+* are_in_reciprocal_relation-ASR talk-SER me(NOM) PL_UNION is_in_relation_with_me(OBL) is_friend_of-SER
 Ⓔ I talk to a friend of mine.
 [Toaq] Chẻo kỏy jí roı sa gỏjī pảı da.
 
 • Ruyus barut nı da daya nınım.
-* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_friend_of(OBL) me-ACC-CUR.
+* are_in_reciprocal_relation-ASR talk-SER me(NOM) PL_UNION is_friend_of(OBL) me-ACC-CUR.
 Ⓔ I talk with a friend of mine.
 
 • Ruyus barut nı da daya wa nın.
-* are_in_reciprocal_relation-ASR talk-SZ me(NOM) PL_UNION is_friend_of(OBL) CUR me-ACC.
+* are_in_reciprocal_relation-ASR talk-SER me(NOM) PL_UNION is_friend_of(OBL) CUR me-ACC.
 Ⓔ I talk with a friend of mine.
 
 • Pıs ra wayut kaŋ ra mırut.

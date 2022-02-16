@@ -179,7 +179,7 @@ In order to select another slot for describing the noun's referents, you may use
 
   ┌───────────────
   │ ◆ Gulırıwas ██ kučut.
-  │ ❖ delicious-ASR nominative_accusative_swapper eat-SZ
+  │ ❖ delicious-ASR nominative_accusative_swapper eat-SER
   │ ➥ What is eaten is delicious.
   └─
 
@@ -188,7 +188,7 @@ The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that doe
 
   ┌───────────────
   │ ◆ Bas wıyat mır peq ıt ya seya nı qen.
-  │ ❖ much-ASR has_frequency-SZ ∄-BQZ among-PND you_know_what-SZ CCI
+  │ ❖ much-ASR has_frequency-SER ∄-BQZ among-PND you_know_what-SER CCI
   │   interact_socially me PND_PN-ACC
   │ ➥ None of them is such that I frequently interact socially with them.
   └─
