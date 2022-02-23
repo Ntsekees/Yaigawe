@@ -155,6 +155,31 @@ A matrix verb can make up a complete sentence by itself; verb complements, inclu
 
 The syntax is fairly highly head-initial (although not always): adjectives and adjectival relative clauses are placed after their target noun, subordinating conjunctions are placed at the beginning of the subordinate clause they open, and so on.
 
+
+§§ Illocutionary desinences
+
+The illocutionary desinences available for matrix verbs are the following:
+  • ⟪-h⟫: Performative;
+  • ⟪-s⟫: Assertive;
+  • ⟪-f⟫: Requestive;
+  • ⟪-yam⟫: Polar Question;
+  • ⟪-wam⟫: Content Question.
+
+The Performative illocution marks a sentence as describing a state of affairs that comes to existence only by virtue of the speaker uttering the utterance: this can be exemplified by expressions such as “I hereby greet you”, “I promise you to never let you down”, “I nominate you capitain”, “I declare you married”. Unlike the Assertive illocution, these do not passively describe a pre-existing state of affair, but actively cause the described situation to come into existence.
+
+The Assertive illocution marks a sentence as being a passive description of what the speaker believes to be an existing state of affair; its purpose is to let the addressee know what the speaker thinks to be true.
+
+The Requestive illocution marks a sentence as describing a counterfactual imaginary situation which the speaker would like the addressee to take action for bringing it about to reality. In short, it expresses a request, albeit not a threatening one like an authoritarian order issued to a subaltern.
+
+The Polar Question illocution expresses a yes-no question, i.e. a description of a situation which the speaker is requesting the adressee to tell them whether it is the case or not.
+
+The Content Question illocution expresses a fill-in-the-blank question, a question containing one or more “blanks”, represented by lambda pronouns; the speaker requests that the addressee fills in these “blanks” with actual values in such a way as to create a complete sentence that holds true, describing a true state of affairs.
+
+Other illocutions (such as commands, suggestions, promises…) may be expressed by applying the Performative illocution on a suitable matrix verb, expressing the desired speech act (e.g; “I promise…” for the promissory illocution).
+
+
+§§ Noun cases
+
 The four core cases are semantically opaque, they merely indicate which participant slot of the clause's verb (among the slots defined in the definition of the contentive playing the role of the verb) is selected for the marked noun to go into. As case marking of the core arguments of the verb is mandatory, there's no fixed order of appearance for them, they can be introduced in any order.
 
 For example:
@@ -192,6 +217,7 @@ The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that doe
   │   interact_socially me PND_PN-ACC
   │ ➥ None of them is such that I frequently interact socially with them.
   └─
+
 
 The Eventive case ⟪-č⟫ introduces a noun phrase representing a spatiotemporal event described by the proposition harboring this phrase. This can be used for expressing adverbs describing physical events, such as in ⟪He danced beautifully.⟫.
 
