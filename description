@@ -193,6 +193,15 @@ The Pendent case ⟪-q⟫, or “Null case”, introduces a noun phrase that doe
   │ ➥ None of them is such that I frequently interact socially with them.
   └─
 
+The Eventive case ⟪-č⟫ introduces a noun phrase representing a spatiotemporal event described by the proposition harboring this phrase. This can be used for expressing adverbs describing physical events, such as in ⟪He danced beautifully.⟫.
+
+  ┌───────────────
+  │ ◆ Kas jaıwat ı rıwač.
+  │ ❖ was-ASR dance-SER CTX[NOM] beautiful-EV
+  │ ➥ You-know-who danced beautifully.
+  └─
+
+
 (...)
 
 
