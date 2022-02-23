@@ -178,7 +178,7 @@ When a noun case is applied to a contentive of arity 2 or above, the first argum
 In order to select another slot for describing the noun's referents, you may use a suitable slot-swapping predicate:
 
   ┌───────────────
-  │ ◆ Gulırıwas ██ kučut.
+  │ ◆ Gulırıwas lı kučut.
   │ ❖ delicious-ASR nominative_accusative_swapper eat-SER
   │ ➥ What is eaten is delicious.
   └─
