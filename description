@@ -1,5 +1,5 @@
 
-Date of last modification: 2022-01-28.
+Date of last modification: 2022-02-24.
 
 
 § Introduction
@@ -225,6 +225,25 @@ The Eventive case ⟪-č⟫ introduces a noun phrase representing a spatiotempor
   │ ◆ Kas jaıwat ı rıwač.
   │ ❖ was-ASR dance-SER CTX[NOM] beautiful-EV
   │ ➥ You-know-who danced beautifully.
+  └─
+
+
+§§ Other inflectional endings
+
+§§§ The interjective ⟪-ʼ⟫
+
+The interjective ending ⟪-ʼ⟫ turns a contentive into an interjection expressing an attitude or other state experienced by the speaker at the moment of utterance. Similarly to noun cases, the first argument slot of the contentive is selected for describing the attitude of the speaker.
+
+  ┌───────────────
+  │ ◆ Fao’!
+  │ ❖ feel_pain-ITJ
+  │ ➥ Ouch!
+  └─
+
+  ┌───────────────
+  │ ◆ Gulırıwas fao poyat, yıga’.
+  │ ❖ delicious-ASR DEM[NOM] apple-SER, feel_pleasure-ITJ
+  │ ➥ This apple is delicious, yum.
   └─
 
 
