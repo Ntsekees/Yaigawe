@@ -251,6 +251,28 @@ The interjective ending ⟪-ʼ⟫ turns a contentive into an interjection expres
   └─
 
 
+§§§ The oblique ⟪-∅⟫
+
+The oblique ending is realized as an absence of consonantal desinence at the end of a contentive word, thus formally indistinguishable from the nominative, except by appearing in different syntactic environments. It marks contentives that are complements of certain particles, as well as subordinate verbs immediately following a subordinator such as ⟪na⟫, ⟪ya⟫, ⟪yu⟫… (In which case, it could be considered that the subordinate verb is sort of a complement of said subordinator.)
+For example:
+
+  ┌───────────────
+  │ ◆ Kas pat kı yan aıyuga nı ın.
+  │ ❖ PST-ASR make_true-SER you[NOM] CCI[NOM] know[OBL] I[NOM] you_know_what-ACC
+  │ ➥ You made me know it. / You made [I know it] be true.
+  └─
+
+Here, the main verb of the subordinate clause “I know it”, ⟪aıyuga⟫ (“know”), bears no explicit ending as it immediately follows the content clause initiator ⟪ya⟫.
+
+  ┌───────────────
+  │ ◆ Aıyugas nı yan aıyuga kı ın.
+  │ ❖ know-ASR I[NOM] CCI[NOM] know[OBL] you[NOM] you_know_what-ACC
+  │ ➥ I know that you know.
+  └─
+
+Nouns bearing the null-marked nominative cases, such as ⟪nı⟫ and ⟪kı⟫ in the above, are distinguishable from oblique-marked subordinate verbs by the fact they are not directly following a subordinator; when two null-marked contentives follow a subordinator, the verb is always the first one (Yaıgawe being rigidly verb-initial), and any following null-marked contentive is to be interpreted as a nominative-marked noun.
+
+
 §§§ The adjectival ⟪-k⟫
 
 The adjectival ending ⟪-k⟫ marks a contentive as modifying adjectivally the preceding noun, restricting its referents. By adding this inflectional ending on the relative clause initiator ⟪na⟫, it is possible to construct a full-fledged adjectival relative clause, which may be explicitly terminated with the particle ⟪la⟫ (terminator of subordinate clauses).
