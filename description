@@ -119,8 +119,11 @@ Here is the full list of inflectional endings:
   nıʼa◈: rebinder for lambda pronoun #2
   lıʼa◈: rebinder for lambda pronoun #3
   rıʼa◈: rebinder for lambda pronoun #4
-  a◈:    initiator of named variable
+  no◈:   accusative inner case selector
+  lo◈:   dative inner case selector
+  ro◈:   quaternative inner case selector
   lu◈:   unary quantifier constructor (UQC)
+  a◈:    initiator of named variable
   neo◈:  opaque proper name initiator (OPNI)
   wı◈:   sequence initiator (SI)
   wo:    sequence terminator (ST)

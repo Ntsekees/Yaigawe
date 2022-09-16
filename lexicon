@@ -13,6 +13,9 @@ wıʼa◈: rebinder for lambda pronoun #1
 nıʼa◈: rebinder for lambda pronoun #2
 lıʼa◈: rebinder for lambda pronoun #3
 rıʼa◈: rebinder for lambda pronoun #4
+no◈:   accusative inner case selector
+lo◈:   dative inner case selector
+ro◈:   quaternative inner case selector
 a◈:    initiator of named variable
 lu◈:   unary quantifier constructor (UQC)
 neo◈:  opaque proper name initiator (OPNI)
