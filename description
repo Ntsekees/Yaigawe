@@ -213,7 +213,7 @@ When a noun case is applied to a contentive of arity 2 or above, the first argum
 In order to select another slot for describing the noun's referents, you may use a suitable slot-swapping predicate:
 
   ┌───────────────
-  │ ◆ Gulırıwas lı kučut.
+  │ ◆ Ŋulırıwas lı kučut.
   │ ❖ delicious-ASR nominative_accusative_swapper eat-SER
   │ ➥ What is eaten is delicious.
   └─
@@ -251,7 +251,7 @@ The interjective ending ⟪-ʼ⟫ turns a contentive into an interjection expres
   └─
 
   ┌───────────────
-  │ ◆ Gulırıwas fao poyat, yagı’.
+  │ ◆ Ŋulırıwas fao poyat, yagı’.
   │ ❖ delicious-ASR DEM[NOM] apple-SER, feel_pleasure-ITJ
   │ ➥ This apple is delicious, yum.
   └─
@@ -296,7 +296,7 @@ The adjectival ending ⟪-k⟫ marks a contentive as modifying adjectivally the 
 Adjectival relative clauses, such as “which I ate” in the sentence “the apple which I ate was delicious”, may be constructed by appending the adjectival ending to the relative clause initiator ⟪na⟫:
 
   ┌───────────────
-  │ ◆ Kas gulırıwat poya nak ka kučut nı rın.
+  │ ◆ Kas ŋulırıwat poya nak ka kučut nı rın.
   │ ❖ was-ASR delicious-SER apple[NOM] RCI-ADJ was[OBL] eat-SER I[NOM] RSM-ACC
   │ ➥ The apple I ate was delicious.
   └─
