@@ -1,4 +1,4 @@
-﻿
+
 § FUNCTION WORDS
 
 ao:    vocative
@@ -7,7 +7,7 @@ on:    medial connective (MC)
 da:    plural union
 ol:    connective predicate -> n-ary forethought connective
 ok:    n-ary forethought connective terminator
-wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
+wa:    particle linking the following complement to the preceding contentive (quivalent to the "-◈ım" ending) (LNK)
 wao:   terminator of pre-filling phrase
 wıʼa◈: rebinder for lambda pronoun #1
 nıʼa◈: rebinder for lambda pronoun #2
@@ -73,7 +73,7 @@ aı: ➊ is true.
 hu: ➊ is false.
 u: ➊ has property ➋.
 waı: ➊ and ➋ are in relation ➌.
-rewaı: ➊, ➋ and ➌ are in relation ➍.
+rewaı: ➊, ➋ and ➌ are in quaternary relation ➍.
 to: ➊ is all which has property ➋.
 ?me: property ➊ is satisfied by ➋.
 yeo~ayo: propery ➊ is universal.
@@ -171,4 +171,5 @@ daya: ➊ is a friend of ➋.
 ruwa: ➊ is a country.
 rıqu: ➊ rains.
 kane: ➊ is a road.
+
 

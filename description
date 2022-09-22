@@ -88,6 +88,7 @@ Here is the full list of inflectional endings:
   -n:   [Case] Accusative, second core argument
   -l:   [Case] Dative/Ternative, third core argument
   -ram: [Case] Quaternative, fourth core argument
+  -gam: [Case] Co-nominative
   -č:   [Case] Eventive (event instantiating the clause)
   -k:   Restrictive adjective
   -p:   Restrictive propositional adverb
@@ -95,12 +96,13 @@ Here is the full list of inflectional endings:
   -ŋam: Restrictive afterthought statement conjunction
   -ham: Restrictive forethought conjunction
   -r:   Binary quantifier
-  -wım: Nominative pre-filling (currying) of the preceding contentive
-  -nım: Accusative pre-filling (currying) of the preceding contentive
-  -lım: Ternative pre-filling (currying) of the preceding contentive
-  -rım: Quaternative pre-filling (currying) of the preceding contentive
-  -čım: Eventive pre-filling (currying) of the preceding contentive
-  -pım: Adverbial pre-filling (currying) of the preceding contentive
+  -wım: Linker to the Nominative case of the immediately preceding contentive
+  -nım: Linker to the Accusative case of the immediately preceding contentive
+  -lım: Linker to the Ternative case of the immediately preceding contentive
+  -rım: Linker to the Quaternative case of the immediately preceding contentive
+  -gım: Linker to the Co-nominative case of the immediately preceding contentive
+  -čım: Linker to the Eventive case of the immediately preceding contentive
+  -pım: Linker attaching the contentive as an adverb modifyig the immediately preceding contentive
 
 
 § List of function words
@@ -113,7 +115,7 @@ Here is the full list of inflectional endings:
   da:    plural union
   ol:    connective predicate -> n-ary forethought connective
   ok:    n-ary forethought connective terminator
-  wa:    indicator of pre-filling (currying) of the preceding contentive with the following nominal or adverbial term (equivalent to the "-◈ım" ending) (CUR)
+  wa:    particle linking the following complement to the preceding contentive (quivalent to the "-◈ım" ending) (LNK)
   wao:   terminator of pre-filling phrase
   wıʼa◈: rebinder for lambda pronoun #1
   nıʼa◈: rebinder for lambda pronoun #2
@@ -122,6 +124,7 @@ Here is the full list of inflectional endings:
   no◈:   accusative inner case selector
   lo◈:   dative inner case selector
   ro◈:   quaternative inner case selector
+  čo◈:   eventive inner case selector
   lu◈:   unary quantifier constructor (UQC)
   a◈:    initiator of named variable
   neo◈:  opaque proper name initiator (OPNI)
@@ -308,4 +311,5 @@ Here, ⟪rı⟫ is the resumptive pronoun, which refers back to the antecedent o
 § Lexicon: contentives
 
 See the dedicated file ⟪lexicon⟫.
+
 
