@@ -1,0 +1,113 @@
+
+
+text <- space? discourse EOF?
+
+discourse <- sentence*
+
+sentence <- root_verb_phrase
+
+root_verb_phrase <- root_verb_cluster dp*
+
+sub_verb_phrase <- sub_verb_cluster dp*
+
+root_verb_cluster <- root_verb serial_phrase?
+
+sub_verb_cluster <- stem serial_phrase?
+
+root_verb <- stem illocutionary_desinence space freemod*
+
+root_verbal_clause <- subordinator illocutionary_desinence sub_verb_phrase clause_terminator space freemod*
+
+dp <- determiner? noun_phrase
+
+noun_phrase <- noun serial_phrase?
+
+noun <- stem noun_desinence space freemod*
+
+noun_clause <- subordinator noun_desinence sub_verb_phrase clause_terminator space freemod*
+
+serial_phrase <- serial_word serial_word?
+
+serial_word <- stem t space freemod*
+
+freemod <- interjection / vocative_phrase
+
+vocative_phrase <- vocative dp
+
+interjection <- stem gs space
+
+word <- stem desinence space
+
+vocative <- a o space freemod*
+
+determiner <- a space freemod*
+
+subordinator <- (y a / y u / n a) space freemod*
+
+clause_terminator <- l a space freemod*
+
+illocutionary_desinence <- s / h / f / y a m / w a m
+
+noun_desinence <- (n / l / r a m / ch / q)?  #: NE
+
+stem <- syllable+
+
+desinence <- consonant?
+
+syllable <- consonant vowel
+
+consonant <- y / w / r / l / m / n / ng / b / d / j / g / p / t / ch / k / q / gs / f / s / h
+
+vowel <- a / e / i / o / u
+
+a <- [aA]  #: LEAF
+e <- [eE]  #: LEAF
+i <- [ıiI]  #: LEAF
+o <- [oO]  #: LEAF
+u <- [uU]  #: LEAF
+
+y <- [yY]  #: LEAF
+w <- [wW]  #: LEAF
+r <- [rR]  #: LEAF
+l <- [lL]  #: LEAF
+m <- [mM]  #: LEAF
+n <- [nN]  #: LEAF
+ng <- [ŋŊ]  #: LEAF
+b <- [bB]  #: LEAF
+d <- [dD]  #: LEAF
+j <- [jJ]  #: LEAF
+g <- [gG]  #: LEAF
+p <- [pP]  #: LEAF
+t <- [tT]  #: LEAF
+ch <- [čČ]  #: LEAF
+k <- [kK]  #: LEAF
+q <- [qQ]  #: LEAF
+gs <- [ʼ]  #: LEAF
+f <- [fF]  #: LEAF
+s <- [sS]  #: LEAF
+h <- [hH]  #: LEAF
+
+#___________________________________________________________________
+
+digit <- [0123456789]
+
+post_word <- pause / word
+
+pause <- space_char+ / EOF
+
+EOF <- !.
+
+
+non_space <- !space_char .  #: JOIN
+
+space_char <- [.\t\n\r?!\u0020]
+
+
+#___________________________________________________________________
+
+space <- space_char+ EOF? / EOF
+
+#___________________________________________________________________
+
+# A <- &cmavo ( a / e / j i / o / u ) &post_word
+
